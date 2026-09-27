@@ -6,6 +6,8 @@ ChemIsFree is an open initiative making computational chemistry and drug-discove
 
 We want to make it easier for researchers to find useful tools, for developers to build new ones, and for the community to share and improve the software and resources they use.
 
+<img width="2056" height="765" alt="ChatGPT Image Sep 27, 2026, 03_28_04 PM" src="https://github.com/user-attachments/assets/7ad9e8bd-a5a9-4e4b-8d21-b251dabe3bd9" />
+
 ## What is ChemIsFree?
 
 ChemIsFree brings together tools, projects, and resources relevant to chemistry and drug discovery under one open ecosystem.
