@@ -26,6 +26,33 @@ This includes areas such as:
 
 Some projects may be developed directly through ChemIsFree, while others may be independent projects that choose to be listed and shared through the ChemIsFree ecosystem.
 
+## Explore
+
+Browse the ChemIsFree catalogue by category:
+
+* **[Cheminformatics](categories/cheminformatics.md)**
+* **[Molecular Modelling](categories/molecular-modelling.md)**
+* **[Drug Discovery](categories/drug-discovery.md)**
+* **[Machine Learning](categories/machine-learning.md)**
+* **[Data & Databases](categories/data-and-databases.md)**
+* **[Visualization](categories/visualization.md)**
+
+### ChemIsFree Projects
+
+Projects developed through the ChemIsFree initiative.
+
+* **[CataList](https://github.com/DionysisKampasis/CataList)** — Chemical inventory management software for laboratories and researchers.
+
+### Community Tools
+
+Independent tools and projects shared with the ChemIsFree community.
+
+### Curated Resources
+
+Collections of useful software, databases, datasets, services, tutorials, and other resources.
+
+For the full structured catalogue, see [`data/tools.yaml`](data/tools.yaml).
+
 ## Build. Share. Discover.
 
 There are several ways to be part of ChemIsFree.
@@ -60,7 +87,7 @@ We believe that chemistry and drug discovery benefit when useful software and re
 
 ## Who is ChemIsFree for?
 
-ChemIsFree is for anyone interested in open tools for chemistry and drug discovery, including:
+ChemIsFree is for anyone interested in tools and resources for chemistry and drug discovery, including:
 
 * Researchers
 * Chemists
@@ -72,20 +99,11 @@ ChemIsFree is for anyone interested in open tools for chemistry and drug discove
 * Curators
 * Designers and technical communicators
 
-## Explore
-
-**Built by ChemIsFree**
-Collaborative projects developed through the ChemIsFree initiative.
-
-**Community Tools**
-Independent tools and projects shared with the ChemIsFree community.
-
-**Curated Resources**
-Collections of useful software, databases, datasets, services, tutorials, and other resources.
-
 ## Contribute
 
 Whether you want to build software, share an existing project, improve documentation, curate resources, or simply help others discover useful tools, there is a place for you here.
+
+**[Suggest a tool →](https://github.com/ChemIsFree/tools/issues/new/choose)**
 
 **[Get involved →](https://github.com/ChemIsFree)**
 
@@ -94,4 +112,3 @@ Whether you want to build software, share an existing project, improve documenta
 ### ChemIsFree
 
 **Build. Share. Discover.**
-
